@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.houseofmirrors.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "D:\\House of Mirrors - Copy\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "House of Mirrors [Testing]"
+        }
+      }
+    }
+  ]
+}
